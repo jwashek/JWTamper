@@ -12,7 +12,7 @@ A comprehensive automated toolkit for testing JSON Web Token (JWT) implementatio
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jwashek/JWTamper.git
 cd jwtamper
 pip install requests
 pip install cryptography
